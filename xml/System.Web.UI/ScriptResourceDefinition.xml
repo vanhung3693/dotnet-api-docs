@@ -1,4 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <Type Name="ScriptResourceDefinition" FullName="System.Web.UI.ScriptResourceDefinition">
   <TypeSignature Language="C#" Value="public class ScriptResourceDefinition" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit ScriptResourceDefinition extends System.Object" />
@@ -13,7 +12,8 @@
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
   </Base>
-  <Interfaces></Interfaces>
+  <Interfaces>
+  </Interfaces>
   <Docs>
     <summary>Defines the location of a script resource.</summary>
     <remarks>
